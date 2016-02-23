@@ -1,2 +1,4 @@
 src/proto/*pb.rs binary
 src/proto/*pb.rs linguist-vendored
+src/proto/*pb.rs linguist-language=Go
+
